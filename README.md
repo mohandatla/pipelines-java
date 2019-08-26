@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mdatlamsft/helloworld/_apis/build/status/mohandatla.pipelines-java?branchName=master)](https://dev.azure.com/mdatlamsft/helloworld/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
